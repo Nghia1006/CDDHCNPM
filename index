@@ -1,0 +1,28 @@
+<DOCTYTPE html>
+  <html>
+    <head>
+      <title>Lop CNPM</title>
+    </head>
+    <body>
+      <div id = "home">
+        <div id="login-form">
+          <div><span>Dang Nhap</span> <span>X</span></div>
+        <div id="login-body">
+          <div>Ten Dang Nhap</div>
+          <input type = text>
+          <div>
+            <span>Mat Khau</span><span><a href="https://www.youtube.com/">Quen mat khau?</a></span>
+          </div>
+          <input tyoe="password">
+          <div><button>Dang nhap</button></div>
+          <p>hoac dang nhap bang</p>
+          <div>
+            <span><button>Facebook</button></span>
+            <span><button>Google</button></span>
+          </div>
+          <p>Ban chua co tai khoan?<a href="https://www.youtube.com/">Dang ky ngay</a></p>
+        </div>
+      </div>
+    </body>
+  </html>
+</DOCTYTPE>
